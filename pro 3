@@ -1,0 +1,11 @@
+print('Printing name')
+
+p=input()
+print('Hello', p)
+
+
+output:
+Printing name
+
+harry
+Hello harry
